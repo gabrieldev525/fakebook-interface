@@ -15,7 +15,7 @@ export const ProfileImage = styled.Image`
 
 export const WAYTInput = styled.TextInput`
   flex: 1;
-  border-width: 2px;
+  border-width: 1px;
   border-color: #ccc;
   border-radius: 24px;
   width: auto;

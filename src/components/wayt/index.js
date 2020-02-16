@@ -21,7 +21,7 @@ export default WAYT = () => {
       <WAYTInput
         placeholder='No que você está pensando?'
         placeholderTextColor="#46474C" />
-      <Icon name='photo' size={28} style={{
+      <Icon name='photo' size={25} style={{
         marginLeft: 10,
         marginRight: 10,
         color: '#46474C'

@@ -4,7 +4,7 @@ export const HeaderView = styled.View`
   display: flex;
   flex-direction: row;
   background-color: #fff;
-  padding: 5px 3px;
+  padding: 8px 3px;
 `
 
 export const FacebookLogo = styled.Text`
