@@ -4,6 +4,7 @@ export const StoryView = styled.View`
   background-color: #fff;
   padding: 10px 0px 10px 10px;
   height: 200px;
+  margin-top: 10px;
 `
 
 export const StoryItem = styled.View`
